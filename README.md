@@ -82,7 +82,7 @@ Leitura honesta dos números:
 
 ```bash
 git clone https://github.com/LucasBarros28/AutoFe-LLM.git
-cd autofe
+cd AutoFe-LLM
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\\Scripts\\activate
 pip install -r requirements.txt
