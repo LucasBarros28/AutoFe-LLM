@@ -1,0 +1,12 @@
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+pydantic
+pytest
+groq
+# Integração com LLM (Gemini)
+google-genai
+python-dotenv
